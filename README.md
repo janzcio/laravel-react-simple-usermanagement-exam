@@ -113,7 +113,7 @@ You can use tools like Postman or cURL to test the API endpoints.
 
 
 
-# ------------------------------------------------------------------ 
+# ---------------------------------------------------------------- 
 # # FRONTEND GUIDE
 # REACTJS User Management Application
 
