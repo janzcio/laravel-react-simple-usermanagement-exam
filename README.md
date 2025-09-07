@@ -39,7 +39,7 @@ This is a RESTful API built with Laravel for managing users and their roles. The
   ```bash
   git clone git@github.com:janzcio/laravel-react-simple-usermanagement-exam.git
   cd laravel-react-simple-usermanagement-exam\backend-laravel\
-
+```
 2. Install the dependencies:
 ```bash
 composer install
@@ -113,6 +113,7 @@ You can use tools like Postman or cURL to test the API endpoints.
 
 
 
+# ---------------------------------------------------------------- 
 # ---------------------------------------------------------------- 
 # # FRONTEND GUIDE
 # REACTJS User Management Application
